@@ -9,3 +9,6 @@
 #### [Módulo 2](https://github.com/gustavoaamorim/vemsertech-dados-ifood-ada/tree/main/Logica_de_Programacao_2)
 - [Conversor de temperatura](https://github.com/gustavoaamorim/vemsertech-dados-ifood-ada/blob/main/Logica_de_Programacao_2/exercicio_conversor_temp.ipynb)
 - [Lista 1](https://github.com/gustavoaamorim/vemsertech-dados-ifood-ada/blob/main/Logica_de_Programacao_2/exercicios_aula1.ipynb)
+
+### Módulo 3 - Banco de Dados
+- [Projeto Banco de Dados](https://github.com/gustavoaamorim/projetoBD)
